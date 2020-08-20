@@ -24,7 +24,7 @@ function preload(){
   enemy_Img4 = loadImage("images/Enemy4.png");
   enemy_Img5 = loadImage("images/Enemy5.png");
   explosion = loadSound("Explosion.mp3");
-  explosion_Image= loadImage("Images/Explosion.png");
+  explosion_Image= loadImage("images/Explosion.png");
 }
 
 
